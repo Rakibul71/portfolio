@@ -21,9 +21,9 @@ const ContactPage = () => {
                     <ContactItem icon={email} text1={'rakibulislam202019@gmail.com'} text2={''} title={'Email'} />
                     <ContactItem icon={location} text1={'Block-e, Thana para, Tangail.'} text2={'Bangladesh'} title={'Address'} />
                 </div>
-                <div>
+            </div>
+            <div className="emailDiv">
                     <Email></Email>
-                </div>
             </div>
         </div>
     );
