@@ -1,11 +1,14 @@
-.emailDiv{
-    width:100px;
-    margin: 100px auto 0px auto;
-    input{
-        width: 300px;
-    }
+.contactMain {
+  flex: 12;
+}
+.emailDiv {
+  width: 100%;
+  flex: 9;
+  margin: 100px auto 0px auto;
+  input {
+    width: 300px;
+  }
 }
 
-.contact-form{
-   
+.contact-form {
 }
