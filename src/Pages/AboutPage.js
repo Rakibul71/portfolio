@@ -4,7 +4,6 @@ import Title from "../Components/Title";
 import ImageSection from "../Components/ImageSection";
 import design from "../img/design.svg";
 import intelligence from "../img/intelligence.svg";
-import gamedev from "../img/game-dev.svg";
 import ServicesSection from "../Components/ServicesSection";
 
 const AboutPage = () => {
@@ -13,7 +12,6 @@ const AboutPage = () => {
       <Title title={"About Me"} span={"About Me"}></Title>
       <ImageSection></ImageSection>
       <Title title={"My Skills"} span={"My Skills"} />
-      {/* <Tittle title={'My Skills'} span={'My Skills'} /> */}
       <div className="skillsContainer">
         <SkillsSection skill={"Javascript"} progress={"75%"} width={"75%"} />
         <SkillsSection skill={"Typescript"} progress={"30%"} width={"30%"} />
@@ -42,11 +40,6 @@ const AboutPage = () => {
             "Mainly I am enjoying Full Stack development .I have good knowledge about rest Api and express js,  For data base I am using Mongo Db . "
           }
         />
-        {/* <ServicesSection
-          image={gamedev}
-          title={"Game Development"}
-          text={"Lorem ipsum dolor sit amet consectetur adipisicing elit."}
-        /> */}
       </div>
     </div>
   );
