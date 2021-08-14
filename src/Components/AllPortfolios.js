@@ -9,19 +9,17 @@ const portfolios = [
   {
     id: 1,
     category: "ReactJs",
-    link1: "https://relaxed-snyder-f1d9e2.netlify.app/",
-    link2:
-      "https://github.com/Porgramming-Hero-web-course/simple-react-Rakibul71-1",
+    link1: "https://relaxed-murdock-e5ac04.netlify.app/",
+    link2: "https://github.com/Rakibul71/react-admin",
     icon1: "Live",
     icon2: "Git",
     image: port1,
-    title: "Admin DashBoard",
+    title: "Admin  DashBoard",
   },
   {
     id: 2,
-    // category: "Python",
     category: "ReactJs",
-    link1: " https://cranky-swirles-e6c2e6.netlify.app/",
+    link1: " https://flamboyant-poitras-6b8004.netlify.app/",
     link2:
       " https://github.com/Porgramming-Hero-web-course/react-router-Rakibul71",
     icon1: "Live",
@@ -31,11 +29,9 @@ const portfolios = [
   },
   {
     id: 3,
-    // category: 'Animation',
     category: "ReactJs",
-    link1: "https://flamboyant-poitras-6b8004.netlify.app/",
-    link2:
-      "https://github.com/Porgramming-Hero-web-course/react-auth-Rakibul71",
+    link1: "https://hopeful-mestorf-23e3aa.netlify.app/",
+    link2: "https://github.com/Rakibul71/Loudent--menagment-app",
     icon1: "Live",
     icon2: "Git",
     image: port3,
@@ -44,7 +40,7 @@ const portfolios = [
   {
     id: 4,
     category: "ReactJs",
-    link1: "https://discount-shop-d57f3.firebaseapp.com/",
+    link1: "https://cranky-swirles-e6c2e6.netlify.app/",
     link2:
       "https://github.com/Porgramming-Hero-web-course/complete-website-client-Rakibul71",
     icon1: "Live",
@@ -55,7 +51,7 @@ const portfolios = [
   {
     id: 5,
     category: "FullStack",
-    link1: "https://flamboyant-poitras-6b8004.netlify.app/",
+    link1: "https://discount-shop-d57f3.firebaseapp.com/",
     link2: "www.github.com",
     icon1: "Live",
     icon2: "Git",
@@ -65,7 +61,7 @@ const portfolios = [
   {
     id: 6,
     category: "Landing Page",
-    link1: "https://flamboyant-poitras-6b8004.netlify.app/",
+    link1: "https://vigorous-hoover-904258.netlify.app/",
     link2: "www.github.com",
     icon1: "Live",
     icon2: "Git",
